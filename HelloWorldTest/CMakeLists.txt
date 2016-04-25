@@ -4,4 +4,4 @@ project(helloWorldTest)
 add_executable(helloWorldTest helloWorldTest.cpp)
 #target_link_libraries(projectionSample realsense GL glfw)
 
-install(TARGETS helloWorldTest DESTINATION ~/)
+install(TARGETS helloWorldTest DESTINATION /usr/bin/)
