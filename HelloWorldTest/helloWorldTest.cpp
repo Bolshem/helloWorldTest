@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hello World Test by Boris Bolshem = LUCK" <<std::endl;
+    printf("Hello World Test by Boris - LUCK");
     return 0;
 }
